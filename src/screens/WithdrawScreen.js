@@ -47,6 +47,6 @@ const WithdrawScreen = ({balance, setBalance}) => {
       </TouchableOpacity>
     </View>
   );
-};
+}
 
 export default WithdrawScreen;
